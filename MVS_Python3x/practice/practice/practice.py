@@ -1,4 +1,4 @@
-﻿stroke=input()
+stroke=input()
 max=stroke[0]
 for i in range(0,len(stroke)-1):
     for j in range(len(stroke),i,-1):
